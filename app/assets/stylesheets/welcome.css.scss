@@ -5,3 +5,45 @@ body {
 	background-color: lightblue;
 	margin:10px;
 }
+
+
+#right {
+   ewidth: 90%;
+    height: 98%;
+    background-color: #eh9083;
+    margin-left: 5%;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.aboutMe {
+    text-align: center;
+}
+img {
+    /*float: right;*/
+    margin-left: 50%;
+}
+#right img {
+    width: 150px;
+    height: 180px;
+    float:right;
+    
+}
+#footer {
+    width: 99%;
+    height: 7%;
+    border-radius: 2px;
+}
+#footer a {
+    text-decoration: none;
+    color: yellow;
+    text-align: center;
+    margin-left: 40%
+}
+#images img {
+    width: 200px;
+    height: 180px;
+    display: block;
+    float:left;
+    padding: 30px;
+    margin-left: 40px;
+}
